@@ -41,4 +41,4 @@ PHP API 对接 Epusdt。极简代码，极速部署，狗都会用
 
 不得用于商业和非法用途，具体请阅读License
 
-发起订单的方法是访问 https://your.domain/upay.php 【域名、文件名可自定义】
+发起订单的方法是访问 https://your.domain/upay.php?n=88 【域名、文件名、金额等均可自定义】
