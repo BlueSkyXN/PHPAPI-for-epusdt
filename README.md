@@ -14,7 +14,7 @@ Epusdt项目地址 https://github.com/assimon/epusdt
 
 不得用于中国大陆或其他限制加密货币的地区，不得用于企业、商业用途。
 
-不得用违反PRC、USA的法律法规。
+不得违反PRC、USA的相关法律法规。
 
 请阅读《关于进一步防范和处置虚拟货币交易炒作风险的通知》 https://www.spp.gov.cn/spp/zdgz/202109/t20210924_530777.shtml
 
