@@ -1,6 +1,11 @@
 # PHPAPI-for-epusdt
 PHP API 对接 Epusdt。极简代码，极速部署，狗都会用
 
+本作的核心用途是用最简单的方式发起Epusdt支付请求，无需回调、管理、历史查询等无意义因素，符合个人应用场景
+
+Epusdt项目地址 https://github.com/assimon/epusdt
+
+
 # 风险披露与警告
 
 ## 法律风险披露与警告
