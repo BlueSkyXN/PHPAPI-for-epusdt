@@ -5,6 +5,7 @@ PHP API 对接 Epusdt。极简代码，极速部署，狗都会用
 
 Epusdt项目地址 https://github.com/assimon/epusdt
 
+注意本项目不支持中国大陆或其他限制加密货币的地区的用户、商户使用、应用、改写、模仿。
 
 # 风险披露与警告
 
@@ -37,7 +38,7 @@ Epusdt项目地址 https://github.com/assimon/epusdt
 
 造成的任何损失由使用者自负
 
-# 使用方法
+# 使用方法v0.1
 只需要修改【】内的数据就能用
 
 也可以进行学习性质的修改，比如修改Line 65的获取传输参数
@@ -51,3 +52,8 @@ Epusdt项目地址 https://github.com/assimon/epusdt
 发起订单的方法是访问 https://your.domain/upay.php?n=88 【域名、文件名、金额等均可自定义】
 
 体验地址 https://pay.skyit.uk/upay.php?n=50
+
+# 使用方法v0.2
+新增Post版本的PHP+HTML前后端，同时兼容v0.1的n参数
+
+体验地址 https://pay.skyit.uk/upay.html
