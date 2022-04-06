@@ -53,7 +53,7 @@ Epusdt项目地址 https://github.com/assimon/epusdt
 
 体验地址 https://pay.skyit.uk/upay.php?n=50
 
-# 使用方法v0.2
+## 使用方法v0.2
 新增Post版本的PHP+HTML前后端，同时兼容v0.1的n参数
 
 体验地址 https://pay.skyit.uk/upay.html
