@@ -7,6 +7,16 @@ Epusdt项目地址 https://github.com/assimon/epusdt
 
 注意本项目不支持中国大陆或其他限制加密货币的地区的用户、商户使用、应用、改写、模仿。
 
+# TRON/TRX/TRC20网络和USDT相关知识
+## 加密货币电子钱包介绍
+https://www.blueskyxn.com/202207/6247.html
+## 中心化交易所技术介绍 
+① https://www.patreon.com/posts/71104280
+本篇已更新的内容包括：Kraken、Okcoin、FTXUS、NEXO、FTX
+
+② https://www.patreon.com/posts/71106578
+本篇已更新的内容包括：Liquid、bitfinex、binance、okex、Huobi、MEXC、Kucoin、gateio、bybit、coinbase、cryptocom、paxos、cexio、advcash
+
 # 风险披露与警告
 
 ## 法律风险披露与警告
